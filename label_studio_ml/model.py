@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 
 import pickle
 import os
@@ -127,13 +122,7 @@ class SimpleTextClassifier(LabelStudioMLBase):
         return train_output
 
 
-# In[ ]:
 
-
-
-
-
-# In[ ]:
 
 
 
